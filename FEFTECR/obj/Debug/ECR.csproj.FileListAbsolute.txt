@@ -1,0 +1,66 @@
+C:\Users\doyuga\Desktop\ECR-CashBack\bin\Debug\ECR.dll
+C:\Users\doyuga\Desktop\ECR-CashBack\bin\Debug\ECR.pdb
+C:\Users\doyuga\Desktop\ECR-CashBack\obj\Debug\ECR.dll
+C:\Users\doyuga\Desktop\ECR-CashBack\obj\Debug\ECR.pdb
+D:\IPLECR\ECR-CashBack\bin\Debug\ECR.dll
+D:\IPLECR\ECR-CashBack\bin\Debug\ECR.pdb
+D:\IPLECR\ECR-CashBack\obj\Debug\ECR.dll
+D:\IPLECR\ECR-CashBack\obj\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTinc\ECR\bin\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTinc\ECR\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTinc\ECR\obj\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTinc\ECR\obj\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTECR\bin\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTECR\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTECR\obj\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTECR\obj\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTECR\obj\Debug\ECR.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTECR\bin\Debug\ECR.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTECR\bin\Debug\ECR.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTECR\bin\Debug\ECR.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTECR\bin\Debug\ECR.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.pdb
+D:\Virus Remover\FEFTWsvc\FEFTECR\bin\Debug\ECR.dll
+D:\Virus Remover\FEFTWsvc\FEFTECR\bin\Debug\ECR.pdb
+D:\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+D:\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.dll
+D:\Virus Remover\FEFTWsvc\FEFTECR\obj\Debug\ECR.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\bin\Debug\ECR.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\bin\Debug\ECR.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\bin\Debug\ECR.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.csprojAssemblyReference.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\bin\Debug\ECR.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\bin\Debug\ECR.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.csprojAssemblyReference.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTECR\obj\Debug\ECR.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTECR\bin\Debug\ECR.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTECR\bin\Debug\ECR.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTECR\obj\Debug\ECR.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTECR\obj\Debug\ECR.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTECR\obj\Debug\ECR.csprojAssemblyReference.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTECR\bin\Debug\ECR.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTECR\bin\Debug\ECR.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTECR\obj\Debug\ECR.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTECR\obj\Debug\ECR.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTECR\bin\Debug\ECR.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTECR\bin\Debug\ECR.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTECR\obj\Debug\ECR.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTECR\obj\Debug\ECR.pdb

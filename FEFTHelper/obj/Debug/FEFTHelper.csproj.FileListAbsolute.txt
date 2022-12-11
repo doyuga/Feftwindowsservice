@@ -1,0 +1,223 @@
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csprojResolveAssemblyReference.cache
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.csprojResolveAssemblyReference.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.Cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.csprojResolveAssemblyReference.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHelper\bin\Debug\ECR.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\ECR.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\ECR.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.Cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\ECR.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\ECR.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.Cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csprojResolveAssemblyReference.cache
+D:\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+D:\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+D:\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+D:\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.cache
+D:\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+D:\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.dll
+D:\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\ECR.dll
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.dll
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\ECR.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+D:\Virus Remover\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\ECR.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csprojResolveAssemblyReference.cache
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.cache
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\ECR.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\ECR.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csprojAssemblyReference.cache
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.cache
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csprojAssemblyReference.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\ECR.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\ECR.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\FEFTHelper.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\ECR.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\ECR.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\feft_uba.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csprojAssemblyReference.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\obj\Debug\FEFTHelper.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\bin\Debug\log4net.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\FEFTHelper.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\FEFTHelper.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\ECR.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\feft_uba.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\ECR.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\feft_uba.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\FEFTHelper.csprojAssemblyReference.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\FEFTHelper.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\obj\Debug\FEFTHelper.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\log4net.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\FEFTHelper\bin\Debug\log4net.xml
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\FEFTHelper.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\FEFTHelper.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\ECR.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\feft_uba.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\log4net.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\ECR.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\feft_uba.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\bin\Debug\log4net.xml
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.csproj.AssemblyReference.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1f0042c-e766-4130-addc-fb3f6e5c424d": {
+      "ProjectGuid": "b1f0042c-e766-4130-addc-fb3f6e5c424d",
+      "DisplayName": "FEFTHelper",
+      "ColorIndex": 0
+    },
+    "f918643c-c97e-4c5e-8d19-73047532760e": {
+      "ProjectGuid": "f918643c-c97e-4c5e-8d19-73047532760e",
+      "DisplayName": "FEFTWnSvc",
+      "ColorIndex": 1
+    },
+    "6e81881c-ebed-4f19-9257-3ee9bc706011": {
+      "ProjectGuid": "6e81881c-ebed-4f19-9257-3ee9bc706011",
+      "DisplayName": "ECR",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

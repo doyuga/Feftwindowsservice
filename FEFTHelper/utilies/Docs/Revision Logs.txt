@@ -1,0 +1,9 @@
+﻿CHANGE GALLERY
+~~~~~~~~~~~~~~
+V 1.0.0.3
+1. Masked PAN
+2. Put Currency Codes on app.config
+3. Put Operation Codes [reversal & sale] on app.config
+4. Removed some fields from response msg e.g pinVerified
+5. Added shortcut on both Notification area and Startup
+6. Added an endpoint for the reversal message

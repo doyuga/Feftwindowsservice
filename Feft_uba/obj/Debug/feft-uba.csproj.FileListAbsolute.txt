@@ -1,0 +1,64 @@
+D:\fortified benture\UBA\Apps_UBA_Kenya(2)\WindowsTestApp4\codeiis\bin\Debug\iisys_pinpad_V1.0.dll
+D:\fortified benture\UBA\Apps_UBA_Kenya(2)\WindowsTestApp4\codeiis\bin\Debug\iisys_pinpad_V1.0.pdb
+D:\fortified benture\UBA\Apps_UBA_Kenya(2)\WindowsTestApp4\codeiis\obj\Debug\feft-uba.csprojResolveAssemblyReference.cache
+D:\fortified benture\UBA\Apps_UBA_Kenya(2)\WindowsTestApp4\codeiis\obj\Debug\iisys_pinpad_V1.0.dll
+D:\fortified benture\UBA\Apps_UBA_Kenya(2)\WindowsTestApp4\codeiis\obj\Debug\iisys_pinpad_V1.0.pdb
+D:\fortified benture\Developments\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\Feft_uba\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\Feft_uba\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\Feft_uba\obj\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\Feft_uba\obj\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\Feft_uba\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\Feft_uba\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\Feft_uba\obj\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\Feft_uba\obj\Debug\feft_uba.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.pdb
+D:\Virus Remover\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.dll
+D:\Virus Remover\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.pdb
+D:\Virus Remover\FEFTWsvc\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+D:\Virus Remover\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.dll
+D:\Virus Remover\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\obj\Debug\feft-uba.csprojAssemblyReference.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\Feft_uba\bin\Debug\feft_uba.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\Feft_uba\obj\Debug\feft_uba.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\Feft_uba\obj\Debug\feft-uba.csprojAssemblyReference.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\Feft_uba\bin\Debug\feft_uba.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\Feft_uba\bin\Debug\feft_uba.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\Feft_uba\obj\Debug\feft_uba.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvc\Feft_uba\obj\Debug\feft_uba.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\Feft_uba\bin\Debug\feft_uba.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\Feft_uba\bin\Debug\feft_uba.pdb
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\Feft_uba\obj\Debug\feft_uba.dll
+C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\Feft_uba\obj\Debug\feft_uba.pdb

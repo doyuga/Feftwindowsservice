@@ -10,11 +10,11 @@ namespace FEFTWnSvc
     public class ReversalRequest
     {
         [DataMember]
-        public String Amount { get; set; }
+        public String amount { get; set; }
         [DataMember]
-        public String TransKey { get; set; }
+        public String transKey { get; set; }
         [DataMember]
-        public String Bank { get; set; }
+        public String bank { get; set; }
 
     }
 }

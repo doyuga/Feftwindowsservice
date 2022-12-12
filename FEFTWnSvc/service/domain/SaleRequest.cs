@@ -10,17 +10,19 @@ namespace FEFTWnSvc
     public class SaleRequest
     {
         [DataMember]
-        public String TransKey { get; set; }
+        public String transKey { get; set; }
         [DataMember]
-        public String Amount { get; set; }
+        public String amount { get; set; }
         [DataMember]
-        public String CashBack { get; set; }
+        public String cashBack { get; set; }
         [DataMember]
-        public String TillNO { get; set; }
+        public String tillNo { get; set; }
         [DataMember]
-        public String Bank { get; set; }
+        public String bank { get; set; }
 
         [DataMember]
-        public String CashierId { get; set; }
+        public String cashierId { get; set; }
+        [DataMember]
+        public String mobileId { get; set; }
     }
 }

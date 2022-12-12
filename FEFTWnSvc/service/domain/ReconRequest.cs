@@ -11,6 +11,6 @@ namespace FEFTWnSvc
     {
 
         [DataMember]
-        public String Bank { get; set; }
+        public String bank { get; set; }
     }
 }

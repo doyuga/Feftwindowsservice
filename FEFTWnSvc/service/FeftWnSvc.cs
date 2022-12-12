@@ -13,7 +13,7 @@ namespace FEFTWnSvc
         private static Logger log = new Logger();
 
         #region SALE TRANSACTIONS
-        public FEFTResponse sale(string transKey, string Bank, string amount, string cashBack, string CashierId, string tillNO)
+        public FEFTResponse sale(string transKey, string bank, string amount, string cashBack, string tillNo, string cashierId,string mobileId)
         {
             bool log_Debug = Convert.ToBoolean(System.Configuration.ConfigurationManager.AppSettings["log_Debug"]);
             FEFTResponse cres = new FEFTResponse();
@@ -21,22 +21,28 @@ namespace FEFTWnSvc
             {
                 //VALIDATE THE REQUEST
 
-
+                    //                "TransKey": "2",
+                    //"bank": "4",
+                    //"Amount": 100,
+                    //"CashBack":"0",
+                    //"TillNO": "12",
+                    //"cashierId": "10",
+                    //"MobileID": "0729566878"
                 //DETERMINE ROUTE HERE
                 //TRIGGER ARCUS DLL THROUGH A FRIEND ;)
-                if (Bank == "2") // Equity Bank
+                if (bank == "2") // Equity bank
                 {
                     log.logingmode = "EQUITY";
                     if (log_Debug)
                         log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Sale Request's parameters");
 
                     string errMsg = null;
-                    bool valid = Utils.validSaleRequest(amount, cashBack, CashierId, tillNO, transKey, ref errMsg);
+                    bool valid = Utils.validSaleRequest(amount, cashBack, cashierId, tillNo, transKey,mobileId, ref errMsg);
 
                     if (!valid)
                         throw new Exception(errMsg);
                     FEFTHelper.ArcusDll dll = new FEFTHelper.ArcusDll();
-                    Hashtable hsh = dll.execSale(amount, cashBack, CashierId, tillNO, transKey, log_Debug);
+                    Hashtable hsh = dll.execSale(amount, cashBack, cashierId, tillNo, transKey,mobileId, log_Debug);
                     //ASSIGN VARIABLES TO RESPONSE CONTRACT CLASS
                     cres.amount = (string)hsh["amount"];
                     cres.cashBack = (string)hsh["cashback"];
@@ -57,19 +63,19 @@ namespace FEFTWnSvc
                     cres.slip = (string)hsh["slip"];
                 }
 
-                else if (Bank == "1") // KCB Ingenico
+                else if (bank == "1") // KCB Ingenico
                 {
                     log.logingmode = "KCB";
                     if (log_Debug)
                         log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Sale Request's parameters");
 
                     string errMsg = null;
-                    bool valid = Utils.validSaleRequest(amount, cashBack, CashierId, tillNO, transKey, ref errMsg);
+                    bool valid = Utils.validSaleRequest(amount, cashBack, cashierId, tillNo, transKey,mobileId, ref errMsg);
 
                     if (!valid)
                         throw new Exception(errMsg);
                     FEFTHelper.ArcusDll dll = new FEFTHelper.ArcusDll();
-                    Hashtable hsh = dll.execSale(amount, cashBack, CashierId, tillNO, transKey, log_Debug);
+                    Hashtable hsh = dll.execSale(amount, cashBack, cashierId, tillNo, transKey, mobileId,log_Debug);
                     //ASSIGN VARIABLES TO RESPONSE CONTRACT CLASS
                     cres.amount = (string)hsh["amount"];
                     cres.cashBack = (string)hsh["cashback"];
@@ -90,18 +96,18 @@ namespace FEFTWnSvc
                     cres.slip = (string)hsh["slip"];
                 }
 
-                else if (Bank == "0") ///----KCB Bank Verifone----
+                else if (bank == "0") ///----KCB bank Verifone----
                 {
                     if (log_Debug)
                         log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Sale Request's parameters");
 
                     string errMsg = null;
-                    bool valid = Utils.validSaleRequest(amount, cashBack, CashierId, tillNO, transKey, ref errMsg);
+                    bool valid = Utils.validSaleRequest(amount, cashBack, cashierId, tillNo, transKey,mobileId, ref errMsg);
 
                     if (!valid)
                         throw new Exception(errMsg);
                     FEFTHelper.MarshallDLL dll = new FEFTHelper.MarshallDLL();
-                    Hashtable hsh = dll.execSale(amount, cashBack, CashierId, tillNO, transKey, log_Debug);
+                    Hashtable hsh = dll.execSale(amount, cashBack, cashierId, tillNo, transKey, mobileId, log_Debug);
                     //ASSIGN VARIABLES TO RESPONSE CONTRACT CLASS
                     cres.amount = (string)hsh["amount"];
                     cres.cashBack = (string)hsh["cashBack"];
@@ -123,18 +129,18 @@ namespace FEFTWnSvc
                     cres.slip = (string)hsh["slip"];
 
                 }
-                else if (Bank == "3") ///----BBK Bank ----
+                else if (bank == "3") ///----BBK bank ----
                 {
                     if (log_Debug)
                         log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Sale Request's parameters");
 
                     string errMsg = null;
-                    bool valid = Utils.validSaleRequest(amount, cashBack, CashierId, tillNO, transKey, ref errMsg);
+                    bool valid = Utils.validSaleRequest(amount, cashBack, cashierId, tillNo, transKey,mobileId, ref errMsg);
 
                     if (!valid)
                         throw new Exception(errMsg);
                     FEFTHelper.Barclays dll = new FEFTHelper.Barclays();
-                    Hashtable hsh = dll.execSale(amount, cashBack, CashierId, tillNO, transKey, log_Debug);
+                    Hashtable hsh = dll.execSale(amount, cashBack, cashierId, tillNo, transKey,mobileId, log_Debug);
                     //ASSIGN VARIABLES TO RESPONSE CONTRACT CLASS
                     cres.amount = (string)hsh["amount"];
                     cres.cashBack = (string)hsh["cashBack"];
@@ -152,18 +158,18 @@ namespace FEFTWnSvc
                     cres.paymentDetails = (string)hsh["payDetails"];
                     cres.slip = (string)hsh["slip"];
                 }
-                else if (Bank == "5") ///----UBA Bank ----
+                else if (bank == "5") ///----UBA bank ----
                 {
                     if (log_Debug)
                         log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Sale Request's parameters");
 
                     string errMsg = null;
-                    bool valid = Utils.validSaleRequest(amount, cashBack, CashierId, tillNO, transKey, ref errMsg);
+                    bool valid = Utils.validSaleRequest(amount, cashBack, cashierId, tillNo, transKey, mobileId, ref errMsg);
 
                     if (!valid)
                         throw new Exception(errMsg);
                     FEFTHelper.Uba dll = new FEFTHelper.Uba();
-                    Hashtable hsh = dll.execSale(amount, cashBack, tillNO, transKey, log_Debug);
+                    Hashtable hsh = dll.execSale(amount, cashBack, tillNo, transKey,mobileId, log_Debug);
                     //ASSIGN VARIABLES TO RESPONSE CONTRACT CLASS
                     cres.amount = (string)hsh["amount"];
                     cres.cashBack = (string)hsh["cashBack"];
@@ -183,18 +189,18 @@ namespace FEFTWnSvc
                     cres.sign = (string)hsh["sign"];
                     cres.slip = (string)hsh["slip"];
                 }
-                else if (Bank == "4") ///----Ezzypay ----
+                else if (bank == "4") ///----Ezzypay ----
                 {
                     if (log_Debug)
                         log.LogMsg(LogModes.FILE_DEBUG_EZZYPAY, LogLevel.INFO, "Validating Sale Request's parameters");
 
                     string errMsg = null;
-                    bool valid = Utils.validSaleRequest(amount, cashBack, CashierId, tillNO, transKey, ref errMsg);
+                    bool valid = Utils.validSaleRequest(amount, cashBack, cashierId, tillNo, transKey,mobileId, ref errMsg);
 
                     if (!valid)
                         throw new Exception(errMsg);
                     FEFTHelper.Ezzypay dll = new FEFTHelper.Ezzypay();
-                    Hashtable hsh = dll.execSale(amount, cashBack, CashierId, tillNO, transKey, log_Debug);
+                    Hashtable hsh = dll.execSale(amount, cashBack, cashierId, tillNo, transKey,mobileId, log_Debug);
                     //ASSIGN VARIABLES TO RESPONSE CONTRACT CLASS
                     cres.amount = (string)hsh["amount"];
                     cres.cashBack = (string)hsh["cashBack"];
@@ -216,7 +222,7 @@ namespace FEFTWnSvc
                 else ///--- Pass everything through KCB pinpad
                 {
                     FEFTHelper.MarshallDLL dll = new FEFTHelper.MarshallDLL();
-                    Hashtable hsh = dll.execSale(amount, cashBack, CashierId, tillNO, transKey, log_Debug);
+                    Hashtable hsh = dll.execSale(amount, cashBack, cashierId, tillNo, transKey,mobileId, log_Debug);
                     //ASSIGN VARIABLES TO RESPONSE CONTRACT CLASS
                     cres.amount = (string)hsh["amount"];
                     cres.cashBack = (string)hsh["cashBack"];
@@ -242,7 +248,7 @@ namespace FEFTWnSvc
 
             catch (Exception ex)
             {
-                if (Bank == "2") // Equity Bank
+                if (bank == "2") // Equity bank
                 {
                     log.LogMsg(LogModes.FILE_LOG, LogLevel.ERROR, ex.Message);
 
@@ -269,20 +275,20 @@ namespace FEFTWnSvc
             if (creq == null)
                 return null;
             else
-                return this.sale(creq.TransKey, creq.Bank, creq.Amount, creq.CashBack, creq.CashierId, creq.TillNO);
+                return this.sale(creq.transKey, creq.bank, creq.amount, creq.cashBack, creq.cashierId, creq.tillNo,creq.mobileId);
         }
         public FEFTResponse opSale(SaleRequest creq)
         {
             if (creq == null)
                 return null;
             else
-                return this.sale(creq.TransKey, creq.Bank, creq.Amount, creq.CashBack, creq.CashierId, creq.TillNO);
+                return this.sale(creq.transKey, creq.bank, creq.amount, creq.cashBack, creq.cashierId, creq.tillNo,creq.mobileId);
         }
         #endregion
 
         #region REVERSAL TRANSACTIONS
-        //public FEFTResponse reversal(string Amount, string Bank, string Transkey)
-        public FEFTResponse reversal(string TransKey, string Bank, string Amount)
+        //public FEFTResponse reversal(string Amount, string bank, string Transkey)
+        public FEFTResponse reversal(string TransKey, string bank, string Amount)
         {
             bool log_Debug = Convert.ToBoolean(System.Configuration.ConfigurationManager.AppSettings["log_Debug"]);
             FEFTResponse cres = new FEFTResponse();
@@ -292,13 +298,13 @@ namespace FEFTWnSvc
 
                 //DETERMINE ROUTE HERE
                 //TRIGGER ARCUS DLL THROUGH A FRIEND ;)
-                if (Bank == "1") // kcb ingenico
+                if (bank == "1") // kcb ingenico
 
                 {
                     //VALIDATE THE REQUEST
                     if (log_Debug)
                         //log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters");
-                        log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + Amount + "  Transkey: " + TransKey + "  Bank" + Bank);
+                        log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + Amount + "  Transkey: " + TransKey + "  bank" + bank);
 
                     string errMsg = null;
                     bool valid = Utils.validReversalRequest(Amount, TransKey, ref errMsg);
@@ -323,13 +329,13 @@ namespace FEFTWnSvc
                     cres.transactionType = (string)hsh["transType"];
                     cres.paymentDetails = (string)hsh["payDetails"];
                 }
-                else if (Bank == "2") // Equity Bank
+                else if (bank == "2") // Equity bank
 
                 {
                     //VALIDATE THE REQUEST
                     if (log_Debug)
                         //log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters");
-                        log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + Amount + "  Transkey: " + TransKey + "  Bank" + Bank);
+                        log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + Amount + "  Transkey: " + TransKey + "  bank" + bank);
 
                     string errMsg = null;
                     bool valid = Utils.validReversalRequest(Amount, TransKey, ref errMsg);
@@ -354,11 +360,11 @@ namespace FEFTWnSvc
                     cres.transactionType = (string)hsh["transType"];
                     cres.paymentDetails = (string)hsh["payDetails"];
                 }
-                else if (Bank == "3") ///--- BBK
+                else if (bank == "3") ///--- BBK
                 {
                     //VALIDATE THE REQUEST
                     if (log_Debug)
-                        log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + Amount + "  Transkey: " + TransKey + "  Bank" + Bank);
+                        log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + Amount + "  Transkey: " + TransKey + "  bank" + bank);
 
                     string errMsg = null;
                     bool valid = Utils.validReversalRequest(Amount, TransKey, ref errMsg);
@@ -389,7 +395,7 @@ namespace FEFTWnSvc
                 {
                     //VALIDATE THE REQUEST
                     if (log_Debug)
-                        log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + Amount + "  Transkey: " + TransKey + "  Bank" + Bank);
+                        log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + Amount + "  Transkey: " + TransKey + "  bank" + bank);
 
                     string errMsg = null;
                     bool valid = Utils.validReversalRequest(Amount, TransKey, ref errMsg);
@@ -418,7 +424,7 @@ namespace FEFTWnSvc
             }
             catch (Exception ex)
             {
-                if (Bank == "2") // Equity Bank
+                if (bank == "2") // Equity bank
                 {
                     log.LogMsg(LogModes.FILE_LOG, LogLevel.ERROR, ex.Message);
 
@@ -447,7 +453,7 @@ namespace FEFTWnSvc
             if (creq == null)
                 return null;
             else
-                return this.reversal(creq.TransKey, creq.Bank, creq.Amount);
+                return this.reversal(creq.transKey, creq.bank, creq.amount);
         }
         #endregion
         #region Echotest
@@ -508,7 +514,7 @@ namespace FEFTWnSvc
         #endregion
 
         #region Recon
-        public ReconResponse recon(string Bank)
+        public ReconResponse recon(string bank)
         {
             bool log_Debug = Convert.ToBoolean(System.Configuration.ConfigurationManager.AppSettings["log_Debug"]);
             ReconResponse cres = new ReconResponse();
@@ -518,13 +524,13 @@ namespace FEFTWnSvc
 
                 //DETERMINE ROUTE HERE
                 //TRIGGER ARCUS DLL THROUGH A FRIEND ;)
-                if (Bank == "1") // KCB Bank Ingenico 
+                if (bank == "1") // KCB bank Ingenico 
 
                 {
                     //VALIDATE THE REQUEST
                     if (log_Debug)
                         //log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters");
-                        log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + 0 + "  Transkey: " + "" + "  Bank" + Bank);
+                        log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + 0 + "  Transkey: " + "" + "  bank" + bank);
 
                     string errMsg = null;
                     FEFTHelper.ArcusDll dll = new FEFTHelper.ArcusDll();
@@ -537,13 +543,13 @@ namespace FEFTWnSvc
                     cres.msg = (string)hsh["msg"];
 
                 }
-                else if (Bank == "2") // Equity Bank
+                else if (bank == "2") // Equity bank
 
                 {
                     //VALIDATE THE REQUEST
                     if (log_Debug)
                         //log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters");
-                        log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + 0 + "  Transkey: " + "" + "  Bank" + Bank);
+                        log.LogMsg(LogModes.FILE_DEBUG, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + 0 + "  Transkey: " + "" + "  bank" + bank);
 
                     string errMsg = null;
 
@@ -557,11 +563,11 @@ namespace FEFTWnSvc
                     cres.msg = (string)hsh["msg"];
 
                 }
-                else if (Bank == "3") ///--- BBK
+                else if (bank == "3") ///--- BBK
                 {
                     //VALIDATE THE REQUEST
                     if (log_Debug)
-                        log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + 0 + "  Transkey: " + "" + "  Bank" + Bank);
+                        log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + 0 + "  Transkey: " + "" + "  bank" + bank);
 
                     string errMsg = null;
 
@@ -580,7 +586,7 @@ namespace FEFTWnSvc
                 {
                     //VALIDATE THE REQUEST
                     if (log_Debug)
-                        log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + 0 + "  Transkey: " + "" + "  Bank" + Bank);
+                        log.LogMsg(LogModes.FILE_DEBUG_KCB, LogLevel.INFO, "Validating Reversal Request's parameters" + " Amount: " + 0 + "  Transkey: " + "" + "  bank" + bank);
 
                     string errMsg = null;
                     bool valid = Utils.validReversalRequest("", "", ref errMsg);
@@ -600,7 +606,7 @@ namespace FEFTWnSvc
             }
             catch (Exception ex)
             {
-                if (Bank == "2") // Equity Bank
+                if (bank == "2") // Equity bank
                 {
                     log.LogMsg(LogModes.FILE_LOG, LogLevel.ERROR, ex.Message);
 
@@ -629,7 +635,7 @@ namespace FEFTWnSvc
             if (creq == null)
                 return null;
             else
-                return this.recon(creq.Bank);
+                return this.recon(creq.bank);
         }
         #endregion
     }

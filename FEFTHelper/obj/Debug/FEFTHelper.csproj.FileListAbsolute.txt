@@ -221,3 +221,23 @@ C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelp
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.dll
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTHelper\obj\Debug\FEFTHelper.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\FEFTHelper.dll.config
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\FEFTHelper.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\FEFTHelper.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\ECR.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\feft_uba.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\log4net.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\ECR.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\feft_uba.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\bin\Debug\log4net.xml
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\FEFTHelper.csproj.AssemblyReference.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\Interop.WinHttp.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\FEFTHelper.csproj.ResolveComReference.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\FEFTHelper.frmKeypad.resources
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\FEFTHelper.csproj.GenerateResource.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\FEFTHelper.csproj.CoreCompileInputs.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\FEFTHelper.csproj.CopyComplete
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\FEFTHelper.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTHelper\obj\Debug\FEFTHelper.pdb

@@ -64,3 +64,9 @@ C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTECR\
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTECR\obj\Debug\ECR.dll
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTECR\obj\Debug\ECR.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTECR\bin\Debug\ECR.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTECR\bin\Debug\ECR.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTECR\obj\Debug\ECR.csproj.AssemblyReference.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTECR\obj\Debug\ECR.csproj.CoreCompileInputs.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTECR\obj\Debug\ECR.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTECR\obj\Debug\ECR.pdb

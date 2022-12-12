@@ -20,7 +20,7 @@ namespace FEFTHelper
         // logger for ...
         private static Logger log = new Logger();
 
-        public Hashtable execSale(string Amount, string cashBack, string CashierID, string tillNO, string transKey, bool log_Debug)
+        public Hashtable execSale(string Amount, string cashBack, string cashierId, string tillNo, string transKey, string mobileId,bool log_Debug)
         {
             //Updatecashregini();
             updatecashreg();
@@ -316,7 +316,7 @@ namespace FEFTHelper
 
             return success;
         }
-        private bool logtocloud(string rrn, string authcode, double amount, double saleamount, double cashback, string bankcode, string bankname, string mid, string tid, string pan, string cardholder, DateTime transdate, string transtype, string msg, string merchant, string branch, string cashierid, string invoiceno, string respcode, string TillNo)
+        private bool logtocloud(string rrn, string authcode, double amount, double saleamount, double cashback, string bankcode, string bankname, string mid, string tid, string pan, string cardholder, DateTime transdate, string transtype, string msg, string merchant, string branch, string cashierId, string invoiceno, string respcode, string TillNo)
         {
             bool success = false;
             //string connectionString = "Persist Security Info=False;User ID=feft;Password=Delivered,1206!;Initial Catalog=FEFT;Server=208.91.198.196";
@@ -326,7 +326,7 @@ namespace FEFTHelper
             {
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
-                    SqlCommand cmd = new SqlCommand("INSERT INTO EFTTransactions (Rrn, Authcode, Amount,Saleamount,Cashback,Bankcode,Bankname,Mid,Tid,Pan,Cardholder,Transdate,Transtype,Msg,Merchant,Branch,CashierID,invoiceno,respcode,tillno) VALUES (@rrn, @authcode, @amount,@saleamount,@cashback,@bankcode,@bankname,@mid,@tid,@pan,@cardholder,@transdate,@transtype,@msg,@merchant,@branch,@cashierid,@invoiceno,@respcode,@tillno)");
+                    SqlCommand cmd = new SqlCommand("INSERT INTO EFTTransactions (Rrn, Authcode, Amount,Saleamount,Cashback,Bankcode,Bankname,Mid,Tid,Pan,Cardholder,Transdate,Transtype,Msg,Merchant,Branch,cashierId,invoiceno,respcode,tillno) VALUES (@rrn, @authcode, @amount,@saleamount,@cashback,@bankcode,@bankname,@mid,@tid,@pan,@cardholder,@transdate,@transtype,@msg,@merchant,@branch,@cashierId,@invoiceno,@respcode,@tillno)");
                     cmd.CommandType = CommandType.Text;
                     cmd.Connection = connection;
 
@@ -441,13 +441,13 @@ namespace FEFTHelper
                         cmd.Parameters.AddWithValue("@branch", branch);
                     }
 
-                    if (string.IsNullOrEmpty(cashierid))
+                    if (string.IsNullOrEmpty(cashierId))
                     {
-                        cmd.Parameters.AddWithValue("@cashierid", DBNull.Value.ToString());
+                        cmd.Parameters.AddWithValue("@cashierId", DBNull.Value.ToString());
                     }
                     else
                     {
-                        cmd.Parameters.AddWithValue("@cashierid", cashierid);
+                        cmd.Parameters.AddWithValue("@cashierId", cashierId);
                     }
 
                     if (string.IsNullOrEmpty(invoiceno))

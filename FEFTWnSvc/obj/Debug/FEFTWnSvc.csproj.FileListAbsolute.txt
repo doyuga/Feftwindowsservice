@@ -44,3 +44,26 @@ C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTWnSv
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTWnSvc\obj\Debug\FEFTWnSvc.exe
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTWnSvc\obj\Debug\FEFTWnSvc.pdb
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\FEFTWnSvc\obj\Debug\FEFTWnSvc.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\obj\Debug\FEFTWnSvc.csproj.AssemblyReference.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\obj\Debug\FEFTWnSvc.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\obj\Debug\FEFTWnSvc.FEFTsvc.resources
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\obj\Debug\FEFTWnSvc.ProjectInstaller.resources
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\obj\Debug\FEFTWnSvc.csproj.GenerateResource.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\obj\Debug\FEFTWnSvc.csproj.CoreCompileInputs.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\obj\Debug\FEFTWnSvc.exe
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\obj\Debug\FEFTWnSvc.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\FEFTWnSvc.exe.config
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\FEFTWnSvc.exe
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\FEFTWnSvc.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\FEFTHelper.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\log4net.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\ECR.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\feft_uba.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\FEFTHelper.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\FEFTHelper.dll.config
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\log4net.xml
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\ECR.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\bin\Debug\feft_uba.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\FEFTWnSvc\obj\Debug\FEFTWnSvc.csproj.CopyComplete

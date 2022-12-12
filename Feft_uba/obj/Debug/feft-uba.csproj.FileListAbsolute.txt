@@ -62,3 +62,9 @@ C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\Feft_uba
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\Feft_uba\obj\Debug\feft_uba.dll
 C:\Fortified\Fortified\fortified benture\Developments\FEFTWnSvcDigitort\Feft_uba\obj\Debug\feft_uba.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\Feft_uba\bin\Debug\feft_uba.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\Feft_uba\bin\Debug\feft_uba.pdb
+C:\GitHub\Feftwinservice\Feftwindowsservice\Feft_uba\obj\Debug\feft-uba.csproj.AssemblyReference.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\Feft_uba\obj\Debug\feft-uba.csproj.CoreCompileInputs.cache
+C:\GitHub\Feftwinservice\Feftwindowsservice\Feft_uba\obj\Debug\feft_uba.dll
+C:\GitHub\Feftwinservice\Feftwindowsservice\Feft_uba\obj\Debug\feft_uba.pdb

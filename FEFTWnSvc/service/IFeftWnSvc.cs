@@ -18,22 +18,22 @@ namespace FEFTWnSvc
         [WebInvoke(Method = "GET",
             ResponseFormat = WebMessageFormat.Json,
             BodyStyle = WebMessageBodyStyle.Bare,
-            UriTemplate = "sale/{transKey},{Bank},{amount},{cashBack},{tillNO},{CashierId}")]
-        FEFTResponse sale(string transKey, string Bank, string amount, string cashBack, string CashierId, string tillNO);
+            UriTemplate = "sale/{transKey},{bank},{amount},{cashBack},{tillNO},{cashierId},{mobileId}")]
+        FEFTResponse sale(string transKey, string bank, string amount, string cashBack, string tillNo, string cashierId,string mobileId);
 
         [OperationContract]
         [WebInvoke(Method = "GET",
             ResponseFormat = WebMessageFormat.Json,
             BodyStyle = WebMessageBodyStyle.Bare,
-            UriTemplate = "reversal/{TransKey},{Bank},{Amount}")]
-        FEFTResponse reversal(string TransKey, string Bank, string Amount);
+            UriTemplate = "reversal/{transKey},{bank},{amount}")]
+        FEFTResponse reversal(string TransKey, string bank, string Amount);
 
         [OperationContract]
         [WebInvoke(Method = "GET",
             ResponseFormat = WebMessageFormat.Json,
             BodyStyle = WebMessageBodyStyle.Bare,
-            UriTemplate = "recon/{Bank}")]
-        ReconResponse recon(string Bank);
+            UriTemplate = "recon/{bank}")]
+        ReconResponse recon(string bank);
 
         [OperationContract]
         [WebInvoke(Method = "GET",

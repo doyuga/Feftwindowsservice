@@ -14,7 +14,7 @@ namespace FEFTWnSvc
             bool valid = true;
 
             //empty string for amnt
-            if (string.IsNullOrEmpty(req.Amount))
+            if (string.IsNullOrEmpty(req.amount))
             {
                 msg = "REQ: Sale - Trans.amount not provided";
                 valid = false;
@@ -22,23 +22,23 @@ namespace FEFTWnSvc
             else 
             {
                 //valid number for amount
-                valid = val.IsNumber(req.Amount);
+                valid = val.IsNumber(req.amount);
                 if (!valid)
-                    msg = "REQ: Sale - Invalid Trans.Amount: " + req.Amount;
+                    msg = "REQ: Sale - Invalid Trans.Amount: " + req.amount;
                 else
                 {
                     //cashback provided
-                    if (!string.IsNullOrEmpty(req.CashBack))
+                    if (!string.IsNullOrEmpty(req.cashBack))
                     {
-                        valid = val.IsNumber(req.CashBack);
+                        valid = val.IsNumber(req.cashBack);
                         if (!valid)
-                            msg = "REQ: Sale - Invalid Cashback Amount: " + req.CashBack;
+                            msg = "REQ: Sale - Invalid Cashback Amount: " + req.cashBack;
                     }
 
                     //must have transaction key also number
                     if (valid)
                     {
-                        valid = string.IsNullOrEmpty(req.TransKey) ? false : true;
+                        valid = string.IsNullOrEmpty(req.transKey) ? false : true;
                         if (!valid)
                             msg = "REQ: Sale - Trans.Key not provided";
                     }
@@ -47,7 +47,7 @@ namespace FEFTWnSvc
 
             return valid;
         }
-        public static bool validSaleRequest(string Amount, string cashBack,string CashierId, string tillNO, string transKey, ref string msg)
+        public static bool validSaleRequest(string Amount, string cashBack,string cashierId, string tillNO, string transKey, string mobileId,ref string msg)
         {
             Validation val = new Validation();
 
@@ -98,7 +98,7 @@ namespace FEFTWnSvc
             bool valid = true;
 
             //empty string for amnt
-            if (string.IsNullOrEmpty(req.Amount))
+            if (string.IsNullOrEmpty(req.amount))
             {
                 msg = "REQ: Reversal - Trans.Amount not provided";
                 valid = false;
@@ -106,15 +106,15 @@ namespace FEFTWnSvc
             else
             {
                 //valid number for amount
-                valid = val.IsNumber(req.Amount);
+                valid = val.IsNumber(req.amount);
                 if (!valid)
-                    msg = "REQ: Reversal - Invalid Trans.Amount: " + req.Amount;
+                    msg = "REQ: Reversal - Invalid Trans.Amount: " + req.amount;
                 else
                 {
                     //must have transaction key also number
                     if (valid)
                     {
-                        valid = string.IsNullOrEmpty(req.TransKey) ? false : true;
+                        valid = string.IsNullOrEmpty(req.transKey) ? false : true;
                         if (!valid)
                             msg = "REQ: Reversal - RRN not provided";
                     }

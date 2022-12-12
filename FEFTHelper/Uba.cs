@@ -21,7 +21,7 @@ namespace FEFTHelper
         // logger for ...uba
         private static Logger log = new Logger();
         public string invoiceno;
-        public Hashtable execSale(string amount, string cashBack, string tillNO, string transKey, bool log_Debug)
+        public Hashtable execSale(string amount, string cashBack, string tillNo, string transKey, string mobileId, bool log_Debug)
         {
             Hashtable hsh = null;
             try

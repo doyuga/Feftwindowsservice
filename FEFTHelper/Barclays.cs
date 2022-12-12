@@ -24,7 +24,7 @@ namespace FEFTHelper
         public string invoiceno;
         public string respoX;
         //public Hashtable execSale(string amount, string cashBack, string tillNO, string transKey, bool log_Debug)
-        public Hashtable execSale(string amount, string cashBack, string CashierID, string TillNo, string transKey, bool log_Debug)
+        public Hashtable execSale(string amount, string cashBack, string cashierId, string tillNo, string transKey,string mobileId, bool log_Debug)
         {
             Hashtable hsh = null;
             try
@@ -32,7 +32,7 @@ namespace FEFTHelper
                 if (log_Debug)
                     log.LogMsg(LogModes.FILE_DEBUG_BBK, LogLevel.INFO, "Instantiating Marshall.dll's Request & Response objects");
 
-                respoX = HttpGetRequest("", "", transKey, amount, TillNo);
+                respoX = HttpGetRequest("", "", transKey, amount, tillNo);
                 var p = JsonConvert.DeserializeObject<responsedata>(respoX);         
 
                 hsh = new Hashtable();
@@ -72,7 +72,7 @@ namespace FEFTHelper
                 string merchant = ConfigurationManager.AppSettings["merchant"];
                 string branch = ConfigurationManager.AppSettings["branch"];
                 
-                logtocloud(p.retRefNr, p.authCode, x/100, x/100, 0, "BBK", "BBK", p.mid, p.tid, p.pan, p.cardholderName, DateTime.Now, "SALE", p.message, "TNH", p.mid, CashierID, p.stan, p.rspCode, TillNo,transKey);
+                logtocloud(p.retRefNr, p.authCode, x/100, x/100, 0, "BBK", "BBK", p.mid, p.tid, p.pan, p.cardholderName, DateTime.Now, "SALE", p.message, "TNH", p.mid, cashierId, p.stan, p.rspCode, tillNo,transKey);
 
 
             }
@@ -149,7 +149,7 @@ namespace FEFTHelper
 
         }
 
-        private bool logtocloud(string rrn, string authcode, double amount, double saleamount, double cashback, string bankcode, string bankname, string mid, string tid, string pan, string cardholder, DateTime transdate, string transtype, string msg, string merchant, string branch, string cashierid, string invoiceno, string respcode, string TillNo,string transKey)
+        private bool logtocloud(string rrn, string authcode, double amount, double saleamount, double cashback, string bankcode, string bankname, string mid, string tid, string pan, string cardholder, DateTime transdate, string transtype, string msg, string merchant, string branch, string cashierId, string invoiceno, string respcode, string TillNo,string transKey)
         {
             bool success = false;
             //string connectionString = "Persist Security Info=False;User ID=feft;Password=Delivered,1206!;Initial Catalog=FEFT;Server=208.91.198.196";
@@ -159,7 +159,7 @@ namespace FEFTHelper
             {
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
-                    SqlCommand cmd = new SqlCommand("INSERT INTO EFTTransactions (Rrn, Authcode, Amount,Saleamount,Cashback,Bankcode,Bankname,Mid,Tid,Pan,Cardholder,Transdate,Transtype,Msg,Merchant,Branch,CashierID,invoiceno,respcode,tillno,transKey) VALUES (@rrn, @authcode, @amount,@saleamount,@cashback,@bankcode,@bankname,@mid,@tid,@pan,@cardholder,@transdate,@transtype,@msg,@merchant,@branch,@cashierid,@invoiceno,@respcode,@tillno,@transKey)");
+                    SqlCommand cmd = new SqlCommand("INSERT INTO EFTTransactions (Rrn, Authcode, Amount,Saleamount,Cashback,Bankcode,Bankname,Mid,Tid,Pan,Cardholder,Transdate,Transtype,Msg,Merchant,Branch,cashierId,invoiceno,respcode,tillno,transKey) VALUES (@rrn, @authcode, @amount,@saleamount,@cashback,@bankcode,@bankname,@mid,@tid,@pan,@cardholder,@transdate,@transtype,@msg,@merchant,@branch,@cashierId,@invoiceno,@respcode,@tillno,@transKey)");
                     cmd.CommandType = CommandType.Text;
                     cmd.Connection = connection;
 
@@ -292,13 +292,13 @@ namespace FEFTHelper
                         cmd.Parameters.AddWithValue("@branch", branch);
                     }
 
-                    if (string.IsNullOrEmpty(cashierid))
+                    if (string.IsNullOrEmpty(cashierId))
                     {
-                        cmd.Parameters.AddWithValue("@cashierid", DBNull.Value.ToString());
+                        cmd.Parameters.AddWithValue("@cashierId", DBNull.Value.ToString());
                     }
                     else
                     {
-                        cmd.Parameters.AddWithValue("@cashierid", cashierid);
+                        cmd.Parameters.AddWithValue("@cashierId", cashierId);
                     }
 
                     if (string.IsNullOrEmpty(invoiceno))
